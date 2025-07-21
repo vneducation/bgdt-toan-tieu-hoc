@@ -1,4 +1,4 @@
-# [Tên bài giảng hoặc khóa học]
+# Bài giảng điện tử cấp tiểu học
 
 Đây là bộ slide bài giảng điện tử được chia sẻ công khai nhằm hỗ trợ cộng đồng học tập, giảng dạy, nghiên cứu.
 
