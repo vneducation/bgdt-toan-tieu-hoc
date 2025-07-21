@@ -1,6 +1,6 @@
 # Bài giảng điện tử cấp tiểu học
 
-Đây là bộ slide bài giảng điện tử được chia sẻ công khai nhằm hỗ trợ cộng đồng học tập, giảng dạy, nghiên cứu.
+Đây là bộ slide bài giảng điện tử được chúng tôi (Tập thể Giáo viên Trường TH Nguyễn Du) biên soạn và chia sẻ công khai nhằm hỗ trợ cộng đồng học tập, giảng dạy, nghiên cứu.
 
 ## Mục tiêu
 - Cung cấp tài liệu mở để bất kỳ ai cũng có thể **tự do sao chép, chỉnh sửa, và sử dụng** ở mọi nơi, cho bất kỳ mục đích nào (bao gồm cả thương mại).
